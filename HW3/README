@@ -1,0 +1,7 @@
+Homework Assignment 3(CSCI 544)
+Submitted by: Namya Hemal Shah (5953694298)
+
+
+The .py file submitted is originally scripted in .ipynb format. Hence it would be easier to convert it to the ipynb file and then execute.
+Only changes on the testing side that you have to make is to change the paths, custom to the location of your own dataset. Apart from that the execution is very straightforward. You just have to run the code.
+The Explaination of the entire code is withing the comments and the markdown cells.
